@@ -168,3 +168,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Made with ❤️ for Indian farmers and vendors**
+https://drive.google.com/file/d/1e-ZhnB5CChA_MRWMLHqCTcxPeZrsCFxW/view?usp=sharing  --- video demo dashboard
